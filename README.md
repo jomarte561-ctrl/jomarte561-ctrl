@@ -1,6 +1,6 @@
-# 👋 Hi, I'm **Riku**
+# 👋 Hi, I'm Flutter App Developer
 
-### 🇯🇵 Flutter App Developer
+###
 
 Welcome to my GitHub portfolio! I'm a passionate mobile developer from Japan, focused on crafting clean, performant, and user‑friendly applications using **Flutter**. I love exploring modern UI/UX design, building scalable architectures, and contributing to open‑source projects.
 
